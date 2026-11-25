@@ -119,27 +119,12 @@ This project demonstrates practical experience with:
 
 ## Project Structure
 
-```text
-farm-production-and-profitability-analysis/
-│
-├── farm.pbix
-├── README.md
-│
-└── images/
-    └── dashboard-preview.png
-```
+<img width="1138" height="600" alt="image" src="https://github.com/user-attachments/assets/9ac889d1-0378-41fb-b500-c5d3024ec187" />
 
-## How to Use the Project
-
-1. Clone or download this repository.
-2. Open the PBIX file using Microsoft Power BI Desktop.
-3. Explore the KPI cards and agricultural performance charts.
-4. Compare production across regions.
-5. Examine financial performance across crops and regions.
 
 ## Author
 
-**Amani**
+**Amani Olabisi**
 
 Aspiring Data Analyst | Power BI | Data Analytics | Business Intelligence
 
